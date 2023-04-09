@@ -7,5 +7,3 @@ Disallow:
 # This line has been added to demonstrate the usage of SSH protocol
 
 # some line
-
-a simple commit message to demonstrate git pull command.
